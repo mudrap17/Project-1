@@ -1,5 +1,5 @@
 # Project-1
-Breast cancer classification project
+BREAST CANCER CLASSIFICATION PROJECT
 
 Invasive Ductal Carcinoma (IDC) is the most common subtype of all breast cancers. And we build a classification model to identify the IDC and non IDC images.
 
