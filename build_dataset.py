@@ -1,8 +1,7 @@
 import os
 import random
 import shutil
-
-from cancernet import config
+import config
 from imutils import paths
 
 originalPaths = list(paths.list_images(config.INPUT_DATASET))
